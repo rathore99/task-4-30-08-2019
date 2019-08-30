@@ -16,3 +16,7 @@ This project uses HashMap, ArrayList to store Employee objects
 It demostrate the use of methods like add(),contains(),getKey() etc to perform relevent operations.
 
 It uses for each and iterators to traverse data
+
+Employee: This class is for
+ManageEmployee: This class performs data manipulation operation (insert,delete,update) on employee data
+DashboardEmployee: This class deals with user interaction.. take user input and call the relevant methods of ManageEmployee Class to perform specified operation
